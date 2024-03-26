@@ -1,0 +1,12 @@
+body{
+    margin: 20%;
+    padding: 0;
+    text-align: center;
+}
+button{
+    border: 20px;
+    cursor: pointer;
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    padding: 15px;
+}

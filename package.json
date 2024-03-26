@@ -1,0 +1,21 @@
+{
+  "name": "my-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "toastify-js": "^1.12.0"
+  }
+}
